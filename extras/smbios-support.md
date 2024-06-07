@@ -308,8 +308,10 @@ Extra information regarding Apple's CPUs:
 
 | SMBIOS | Year | CPU Family | Product Identifier | Initial Support |
 | :--- | :--- | :--- | :--- | :--- |
-| iMac21,1 | Mid 2021 | Apple M1 | J256 | 11.3 (20E232?) |
-| iMac21,2 | Mid 2021 | Apple M1 | J257 | 11.3 (20E232?) |
+| iMac21,1 | Mid 2021  | Apple M1  | J256  | 11.3 (20E232?) |
+| iMac21,2 | Mid 2021  | Apple M1  | J257  | 11.3 (20E232?) |
+| Mac15,4  | Late 2023 | Apple M3  | J433AP| 14.1 (23B2073) |
+| Mac15,5  | Late 2023 | Apple M3  | J434AP| 14.1 (23B2073) |
 
 ::: details Power PC SMBIOS Table
 
